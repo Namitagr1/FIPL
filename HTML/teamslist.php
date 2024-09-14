@@ -15,12 +15,12 @@ if (isset($_SESSION["user_id"])) {
 }
 
 $_SESSION['preferences'] = [
-    'Chennai Chipmunks' => "background-color: #f1c232;",
-    'Mumbai Mayankies' => "background-color: #ff9900;",
-    'Calcutta Communists' => "background-color: #000000; color: red;",
-    'Bangalore Betas' => "background-color: #073763; color: white;",
-    'London Legends' => "background-color: #4a86e8;",
-    'Magical Magicians' => "background-color: #ff00ff;"
+    'Team 2' => "background-color: #f1c232;",
+    'Team 6' => "background-color: #ff9900;",
+    'Team 3' => "background-color: #000000; color: red;",
+    'Team 1' => "background-color: #073763; color: white;",
+    'Team 4' => "background-color: #4a86e8;",
+    'Team 5' => "background-color: #ff00ff;"
 ];
 
 ?>

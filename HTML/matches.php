@@ -49,7 +49,7 @@ if (isset(parse_url(curPageURL())['query'])) {
 	</script>
 	<?php
 		$count = -1;
-		$schedule_string = "Chennai Chipmunks Calcutta Communists London Legends Mumbai Mayankies Bangalore Betas Magical Magicians Bangalore Betas Magical Magicians London Legends Chennai Chipmunks Mumbai Mayankies Calcutta Communists Magical Magicians London Legends Calcutta Communists Mumbai Mayankies Bangalore Betas Magical Magicians Calcutta Communists London Legends Chennai Chipmunks Mumbai Mayankies Calcutta Communists Chennai Chipmunks Bangalore Betas Magical Magicians London Legends Bangalore Betas Mumbai Mayankies Chennai Chipmunks";
+		$schedule_string = "Team 1 Team 2 Team 3 Team 4 Team 5 Team 6 Team 5 Team 6 Team 3 Team 1 Team 4 Team 2 Team 6 Team 3 Team 2 Team 4 Team 5 Team 6 Team 2 Team 3 Team 1 Team 4 Team 2 Team 1 Team 5 Team 6 Team 3 Team 5 Team 4 Team 1";
 		$schedule_arr = explode(' ', $schedule_string);
 		$schedule = array();
 		for ($i = 0; $i < 30; $i += 2) {
