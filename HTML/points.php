@@ -65,57 +65,57 @@ if (isset($_SESSION["user_id"])) {
 			</thead>
 			<tr>
 				<td>1</td>
-				<td>Magical Magicians</td>
-				<td>6</td>
-				<td>4</td>
-				<td>2</td>
-				<td>207</td>
-				<td>8</td>
+				<td>Team 1</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
 			</tr>
 			<tr>
 				<td>2</td>
-				<td>London Legends</td>
-				<td>6</td>
-				<td>4</td>
-				<td>2</td>
-				<td>14</td>
-				<td>8</td>
+				<td>Team 2</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
 			</tr>
 			<tr>
 				<td>3</td>
-				<td>Bangalore Betas</td>
-				<td>6</td>
-				<td>3</td>
-				<td>3</td>
-				<td>55</td>
-				<td>6</td>
+				<td>Team 3</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
 			</tr>
 			<tr>
 				<td>4</td>
-				<td>Mumbai Mayankies</td>
-				<td>6</td>
-				<td>2</td>
-				<td>4</td>
-				<td>-27</td>
-				<td>4</td>
+				<td>Team 4</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
 			</tr>
 			<tr>
 				<td>5</td>
-				<td>Calcutta Communists</td>
-				<td>6</td>
-				<td>2</td>
-				<td>4</td>
-				<td>-88</td>
-				<td>4</td>
+				<td>Team 5</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
 			</tr>
 			<tr>
 				<td>6</td>
-				<td>Chennai Chipmunks</td>
-				<td>6</td>
-				<td>2</td>
-				<td>4</td>
-				<td>-109</td>
-				<td>4</td>
+				<td>Team 6</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
+				<td>0</td>
 			</tr>
 		</table>
 	</div>
